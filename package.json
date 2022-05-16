@@ -16,7 +16,7 @@
     "d3": "^5.15.0",
     "date-fns": "^2.11.0",
     "deepmerge": "^4.2.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-autosuggest": "^10.0.0",
